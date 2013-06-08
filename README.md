@@ -8,16 +8,16 @@ Quick, basic script to clone project settings fora PhpStorm project from an init
 
 Your project name is the name of the folder your code has just been checked out into. For instance, if I have code in directories like this:
 
-templateProject
-ticket1
-ticket2
+* templateProject
+* ticket1
+* ticket2
 
 And I check out a new branch, ticket3…
 
-templateProject
-ticket1
-ticket2
-ticket3
+* templateProject
+* ticket1
+* ticket2
+* ticket3
 
 I'd use 
 
