@@ -1,6 +1,4 @@
-Quick, basic script to clone project settings for a PhpStorm project from an initial template project to a new project (stored in a templateProject folder). To create a template project, just find an existing project that's set up the way you like it and run this:
-
-    cp -R /path/to/code/project/.idea /path/to/code/templateProject
+A quick, basic script to clone project settings for a PhpStorm project from an initial template project to a new project (stored in a templateProject folder). To create a template project, start a new project named templateProject and apply any settings you like.
 
 ##Usage:
 
@@ -12,7 +10,7 @@ Your project name is the name of the folder into which your code has just been c
 * ticket1
 * ticket2
 
-And I check out a new branch, ticket3…
+And I check out a new branch, ticket3...
 
 * templateProject
 * ticket1
